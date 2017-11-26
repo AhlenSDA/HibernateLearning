@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Maven: antlr:antlr:2.7.7">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/antlr/antlr/2.7.7/antlr-2.7.7.jar!/" />
+      <root url="file://D:/Programowanie/hibernate-release-5.2.11.Final/lib/required" />
+      <root url="file://D:/Programowanie/hibernate-release-5.2.11.Final/lib/jpa-metamodel-generator" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/antlr/antlr/2.7.7/antlr-2.7.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/antlr/antlr/2.7.7/antlr-2.7.7-sources.jar!/" />
+      <root url="file://D:/Programowanie/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44/src" />
+    </SOURCES>
+    <jarDirectory url="file://D:/Programowanie/hibernate-release-5.2.11.Final/lib/jpa-metamodel-generator" recursive="false" />
+    <jarDirectory url="file://D:/Programowanie/hibernate-release-5.2.11.Final/lib/required" recursive="false" />
+  </library>
+</component>
